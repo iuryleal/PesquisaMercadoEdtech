@@ -9,7 +9,7 @@ Destaques:
 - A análise exploratória de dados (AED), análise Information Vaue (IV), análise rquadrado (R²), análise de inferência para média amostral e proporção amostral foram realizadas via Excel;
 - Plano de Ação foi sugerido após a análise.
 
-Link completo do artigo: [Artigo](https://medium.com/@iuryleal/pesquisa-de-mercado-edtech-94d34e2260d0)
+Link completo do artigo: [Artigo](https://medium.com/@iuryleal/de1c28eb72b5)
 
 
 
@@ -24,4 +24,4 @@ Highlights:
 - Exploratory Data Analysis (EDA), Information Value (IV) analysis, R-squared (R²) analysis, inference analysis for sample mean and sample proportion were performed via Excel;
 - An Action Plan was suggested after the analysis.
 
-Full article link: [Article](https://medium.com/@iuryleal/pesquisa-de-mercado-edtech-94d34e2260d0)
+Full article link: [Article](https://medium.com/@iuryleal/de1c28eb72b5)
